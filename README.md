@@ -16,7 +16,7 @@
  - Problem 4 - 232792560
  - Problem 5 - 104743
  - Problem 6 - 137846528820 
- - Problem 7 - didn't manage to solve in alotted time (almost)
+ - Problem 7 - didn't manage to solve in allotted time (almost)
  
  
 
